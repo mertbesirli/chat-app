@@ -5,9 +5,9 @@
 [![REST Architecture](https://img.shields.io/badge/architecture-REST-5DADE2.svg)](http://www.vogella.com/tutorials/REST/article.html)
 [![Spring Boot Framework](https://img.shields.io/badge/framework-Spring%20Boot-brightgreen.svg)](https://projects.spring.io/spring-boot/)
 
-Sample chat application with spring web socket, Sock Js and Stomp protocol
+Sample chat application with spring WebSocket, SockJs and Stomp protocol
 
-This application demonstrates the usage of spring-websocket and stomp protocol to build a simple chat application. Shows examples for basic websocket messaging without stomp and sock js, group broadcasting message using stomp and sock js, user-to-user chat with websocket java client implementation using spring-boot.
+This application demonstrates the usage of spring-websocket and stomp protocol to build a simple chat application. Shows examples for basic websocket messaging without stomp and sockjs, group broadcasting message using stomp and sock js, user-to-user chat with websocket java client implementation using spring-boot.
 
 
 Path	| Description
