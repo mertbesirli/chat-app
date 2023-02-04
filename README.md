@@ -29,4 +29,4 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 
 
 [license-shield]: https://img.shields.io/badge/license-MIT%20License-green.svg
-[license-url]: https://github.com/mertbesirli/microservice-app/blob/main/LICENSE
+[license-url]: https://github.com/mertbesirli/chat-app/blob/main/LICENSE.md
